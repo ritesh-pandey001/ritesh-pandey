@@ -1,49 +1,101 @@
-<!-- 🌟 Welcome Section 🌟 -->
-<h1 align="center">Hey there! 👋 I'm <span style="color:#00bfff;">Ritesh Pandey</span></h1>
-<h3 align="center">💻 AI Developer &nbsp;|&nbsp; 🚀 Innovator &nbsp;|&nbsp; 🛡️ Security Enthusiast</h3>
-
-<div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"
-       width="330"
-       alt="Coding GIF"
-       style="border: 3px solid #00bfff; border-radius: 20px; padding: 4px; background-color: #f9f9f9; box-shadow: 0 4px 12px rgba(0,0,0,0.15);" />
-</div>
-
-<br/>
-
-<p align="center">
-  <em>
-    🚀 Crafting intelligent solutions using <strong>Machine Learning</strong>, <strong>Deep Learning</strong>, and <strong>Flutter</strong><br/>
-    🎯 Currently building AI-driven apps like <strong>MalwareX</strong> and <strong>AIYRA</strong>
-  </em>
-</p>
-
-<hr style="border: none; height: 1px; background-color: #00bfff; width: 60%; margin: auto;" />
+<!-- 🌟 HEADER 🌟 -->
+<h1 align="center">Hey 👋 I'm <span style="color:#00bfff;">Ritesh Pandey</span></h1>
 
 <h3 align="center">
-  🎓 <strong>B.Tech CSE (AI Specialization)</strong> @ Bennett University <br/>
-  💡 Focused on solving real-world problems with AI
+💻 AI Engineer | 🛡️ Cybersecurity Enthusiast | 🚀 Building Real-World Intelligent Systems
 </h3>
 
+<div align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="320"/>
+</div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ritesh-pandey&label=Profile%20views&color=0e75b6&style=flat" alt="ritesh-pandey" /> </p>
+---
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ritesh-pandey" alt="ritesh-pandey" /></a> </p>
+## 🧠 About Me
+<p align="center">
+🚀 Passionate about building <strong>AI-powered real-world applications</strong><br/>
+🛡️ Focused on <strong>Cybersecurity + Machine Learning</strong><br/>
+📱 Crafting scalable apps using <strong>Flutter + AI</strong><br/>
+💡 Turning ideas into impactful solutions
+</p>
 
-- 🔭 I’m currently working on **AI-powered Android malware detection using ML (240K+ URLs & APK metadata), featuring real-time alerts and threat scanning**
+---
 
-- 🌱 Plant Disease Detection – Smart India Hackathon **Achieved 90%+ accuracy in disease classification; Ranked 1st in problem category out of 400+ teams**
+## 🎯 Current Focus
+- 🔐 AI-Based **Android Malware Detection System** (MalwareX)
+- 🤖 Smart AI Assistant (**AIYRA**) – Voice + Vision + Automation
+- 👁️ **Diabetic Retinopathy Detection** using CNN
+- 🌐 AI-driven **Phishing URL Detection System**
 
-- 🧠 AIYRA – Smart Desktop Assistant **Python-based assistant that automates 50+ tasks with a Tkinter GUI and modular design**
+---
 
-- 👁️Diabetic Retinopathy Detection (Ongoing) **CNN-based model trained on 50,000+ fundus images for early detection and grading of diabetic eye disease**
+## 🏆 Achievements
+- 🥇 **Smart India Hackathon Winner** (Rank 1 / 400+ teams)
+- 🎯 Achieved **90%+ accuracy** in Plant Disease Detection
+- 📊 Built ML models with **240K+ dataset scale**
+- 🚀 Developed real-world deployable AI systems
 
-- 📫 How to reach me **riteshpandey.2143@gmail.com**
+---
 
+## 💼 Featured Projects
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://www.qt.io/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+### 🔐 MalwareX – AI Security System
+- ML-based malware detection using **APK + URL analysis**
+- Real-time threat alerts & scanning
+- Lightweight & mobile-optimized model
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ritesh-pandey&show_icons=true&locale=en&layout=compact" alt="ritesh-pandey" /></p>
+### 🤖 AIYRA – Smart Assistant
+- Python-based assistant with **50+ automation tasks**
+- Voice + GUI interaction
+- Future scope: Healthcare + Smart Mirror AI
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ritesh-pandey&show_icons=true&locale=en" alt="ritesh-pandey" /></p>
+### 👁️ Diabetic Retinopathy Detection
+- CNN model trained on **50,000+ images**
+- Early-stage disease detection & grading
+
+---
+
+## 🛠️ Tech Stack
+
+### 👨‍💻 Languages
+`Python` `Dart` `Java` `C++` `JavaScript`
+
+### 📱 App Development
+`Flutter` `Firebase` `Android`
+
+### 🤖 AI/ML
+`TensorFlow` `PyTorch` `Scikit-learn` `OpenCV` `Pandas`
+
+### 🔐 Security
+`Malware Analysis` `Phishing Detection` `Network Monitoring`
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ritesh-pandey&show_icons=true&theme=tokyonight"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ritesh-pandey&theme=tokyonight"/>
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+  📧 Email: <strong>riteshpandey.2143@gmail.com</strong><br/>
+  💼 Open for: Internships | Research | AI Projects | Collaborations
+</p>
+
+---
+
+## ⚡ Fun Fact
+💡 I don’t just build projects — I build **solutions that solve real-world problems using AI**
+
+---
+
+## 🚀 Vision
+> “To build intelligent systems that make technology smarter, safer, and more human.”
