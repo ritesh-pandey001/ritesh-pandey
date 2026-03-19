@@ -1,9 +1,32 @@
-<!-- 🌟 HEADER 🌟 -->
-<h1 align="center">Hey 👋 I'm <span style="color:#00bfff;">Ritesh Pandey</span></h1>
+<!-- 🌟 ANIMATED INTRO 🌟 -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=4000&color=00BFFF&center=true&vCenter=true&width=650&lines=Hey+👋+I'm+Ritesh+Pandey;AI+%2B+Cybersecurity+Engineer;Building+Scalable+Intelligent+Systems;Research+%7C+Innovation+%7C+Impact" />
+</p>
+
+---
+
+<h1 align="center">🚀 Ritesh Pandey</h1>
 
 <h3 align="center">
-💻 AI Engineer | 🛡️ Cybersecurity Enthusiast | 🚀 Building Real-World Intelligent Systems
+💻 AI Engineer | 🛡️ Cybersecurity Researcher | 🚀 Innovator
 </h3>
+
+---
+
+<!-- 🌟 BADGES 🌟 -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ritesh-pandey&label=Profile%20Views&color=00bfff&style=flat"/>
+  <img src="https://img.shields.io/github/followers/ritesh-pandey?style=social"/>
+  <img src="https://img.shields.io/github/stars/ritesh-pandey?style=social"/>
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/ritesh-pandey-1b01b628a/">
+    <img src="https://img.shields.io/badge/LinkedIn-Ritesh%20Pandey-blue?style=for-the-badge&logo=linkedin"/>
+  </a>
+</p>
+
+---
 
 <div align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="320"/>
@@ -13,65 +36,101 @@
 
 ## 🧠 About Me
 <p align="center">
-🚀 Passionate about building <strong>AI-powered real-world applications</strong><br/>
-🛡️ Focused on <strong>Cybersecurity + Machine Learning</strong><br/>
-📱 Crafting scalable apps using <strong>Flutter + AI</strong><br/>
-💡 Turning ideas into impactful solutions
+🚀 B.Tech CSE (AI) student at <strong>Bennett University</strong><br/>
+🛡️ Specializing in <strong>AI-driven Cybersecurity & Intelligent Systems</strong><br/>
+📊 Experienced in building <strong>production-ready ML systems</strong><br/>
+💡 Passionate about solving real-world problems using AI + Automation
 </p>
 
 ---
 
-## 🎯 Current Focus
-- 🔐 AI-Based **Android Malware Detection System** (MalwareX)
-- 🤖 Smart AI Assistant (**AIYRA**) – Voice + Vision + Automation
-- 👁️ **Diabetic Retinopathy Detection** using CNN
-- 🌐 AI-driven **Phishing URL Detection System**
+## 🎯 Core Expertise
+- 🔐 AI-based Malware & Threat Detection  
+- 🤖 Machine Learning & Deep Learning Systems  
+- 📱 AI-powered Mobile App Development (Flutter)  
+- 🌐 Phishing Detection & Network Security  
 
 ---
 
-## 🏆 Achievements
-- 🥇 **Smart India Hackathon Winner** (Rank 1 / 400+ teams)
-- 🎯 Achieved **90%+ accuracy** in Plant Disease Detection
-- 📊 Built ML models with **240K+ dataset scale**
-- 🚀 Developed real-world deployable AI systems
+## 🏆 Achievements & Recognition
+- 🏆 **Winner – HackSecure26 (National Cybersecurity Hackathon, NIT Hamirpur)**  
+- 🥉 **3rd Place – Mobile Next 2025 (App Showcase)**  
+- 📊 Built ML systems trained on **240K+ real-world data samples**  
+- 🎯 Achieved **90%+ model accuracy across multiple AI systems**  
 
 ---
 
-## 💼 Featured Projects
+## 💼 Featured Work
 
-### 🔐 MalwareX – AI Security System
-- ML-based malware detection using **APK + URL analysis**
-- Real-time threat alerts & scanning
-- Lightweight & mobile-optimized model
+### 🔐 MalwareX – AI Malware Detection System
+- Built an AI-driven Android security system achieving **95% accuracy**  
+- Trained models on **240K+ phishing URLs & 50K+ APK metadata**  
+- Reduced false positives by **20%** using behavioral feature engineering  
+- Implemented **real-time alerts (<1s)** & quick scan (23s)  
+- 📌 Patent Filed (2025)
 
-### 🤖 AIYRA – Smart Assistant
-- Python-based assistant with **50+ automation tasks**
-- Voice + GUI interaction
-- Future scope: Healthcare + Smart Mirror AI
+---
 
-### 👁️ Diabetic Retinopathy Detection
-- CNN model trained on **50,000+ images**
-- Early-stage disease detection & grading
+### 🤖 AIYRA – Intelligent Desktop Assistant
+- Automated **50+ system-level tasks**  
+- Designed modular architecture improving scalability by **30%**  
+- Built interactive GUI using Tkinter  
+
+---
+
+### 👁️ Diabetic Retinopathy Detection (Research)
+- EfficientNet-based CNN model  
+- Achieved **~90% accuracy**  
+- Optimized for **mobile/edge healthcare deployment**  
+
+---
+
+### 🏫 Universe ERP System
+- Full-stack ERP for **10,000+ users**  
+- Reduced manual workload by **70%**  
+- Built 6+ modules (attendance, hostel, exams, etc.)
+
+---
+
+## 🔬 Research, Publications & Patents
+
+### 📄 Publication
+- **Improved and Lightweight Diabetic Retinopathy Detection**  
+  ✔ Accepted at *Journal of Electronic Imaging (JEI)*  
+  ✔ Focus: Edge AI + Medical Imaging  
+
+### 📜 Patent
+- **MALWAREX: AI-Powered Malware Detection System**  
+  ✔ Filed April 2025  
+  ✔ Application No: 202511036364  
+
+---
+
+## 📚 Currently Exploring
+- ⚡ Edge AI & Model Optimization (TFLite)  
+- 🛡️ Advanced Threat Intelligence Systems  
+- ☁️ Scalable AI Deployment (Cloud + Firebase)  
+- 🔥 Deep Learning Architectures  
 
 ---
 
 ## 🛠️ Tech Stack
 
 ### 👨‍💻 Languages
-`Python` `Dart` `Java` `C++` `JavaScript`
-
-### 📱 App Development
-`Flutter` `Firebase` `Android`
+`Python` `Java` `C++` `SQL` `Dart` `JavaScript`
 
 ### 🤖 AI/ML
-`TensorFlow` `PyTorch` `Scikit-learn` `OpenCV` `Pandas`
+`TensorFlow` `Keras` `Scikit-learn` `OpenCV`
 
-### 🔐 Security
-`Malware Analysis` `Phishing Detection` `Network Monitoring`
+### 📱 Development
+`Flutter` `Firebase` `Tkinter` `React`
+
+### ⚙️ Tools
+`GitHub` `VS Code` `Android Studio` `Kaggle` `Power BI`
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ritesh-pandey&show_icons=true&theme=tokyonight"/>
@@ -86,16 +145,17 @@
 ## 🌐 Connect With Me
 
 <p align="center">
-  📧 Email: <strong>riteshpandey.2143@gmail.com</strong><br/>
-  💼 Open for: Internships | Research | AI Projects | Collaborations
+📧 riteshpandey.2143@gmail.com <br/>
+🔗 <a href="https://www.linkedin.com/in/ritesh-pandey-1b01b628a/">LinkedIn Profile</a><br/>
+💼 Open for: Research Internships | AI Roles | Collaborations
 </p>
 
 ---
 
 ## ⚡ Fun Fact
-💡 I don’t just build projects — I build **solutions that solve real-world problems using AI**
+💡 I build systems that combine **AI + Security + Real-World Impact**
 
 ---
 
 ## 🚀 Vision
-> “To build intelligent systems that make technology smarter, safer, and more human.”
+> “To engineer intelligent systems that enhance security, healthcare, and human potential through AI.”
