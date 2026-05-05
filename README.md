@@ -15,9 +15,12 @@
 
 <!-- 🌟 BADGES 🌟 -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ritesh-pandey&label=Profile%20Views&color=00bfff&style=flat"/>
-  <img src="https://img.shields.io/github/followers/ritesh-pandey?style=social"/>
-  <img src="https://img.shields.io/github/stars/ritesh-pandey?style=social"/>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ritesh-pandey&label=Profile%20Views&color=00bfff&style=flat" />
+  
+  <img src="https://img.shields.io/github/followers/ritesh-pandey001?style=social" />
+  
+  <img src="https://img.shields.io/github/stars/ritesh-pandey001?style=social" />
 </p>
 
 <p align="center">
